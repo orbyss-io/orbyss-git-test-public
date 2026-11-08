@@ -1,0 +1,3 @@
+[submodule "qualification-submodule"]
+	path = submodule
+	url = https://github.com/orbyss-io/orbyss-git-test-public.git
