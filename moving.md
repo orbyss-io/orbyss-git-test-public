@@ -1,3 +1,3 @@
 # Moving reference
 
-Version one.
+Version two: immutable revision qualification.
